@@ -15,3 +15,4 @@ yarn-error.log*
 *.sln
 .cache
 package-lock.json
+/01/dist/
